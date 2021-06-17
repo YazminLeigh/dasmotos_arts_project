@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    background-image: url("/DasmotosProject/images/pattern.webp");
+    width:100%;
+    align-content:center;
+    z-index: auto;
+    
+}
+
+h1 { 
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+
+
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+
+}
+
+h4 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color:skyblue;
+    }
+
+a {
+    font-weight:bold;
+    color:blue;
+}
